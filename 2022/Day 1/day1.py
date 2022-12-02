@@ -7,4 +7,9 @@ for i in range(0, len(calories)):
 	calories[i] = sum(calories[i]) # Sum list of lists of calories
 
 calories = sorted(calories, reverse=True) # Sort results in descending order.
-print(calories[0]) # Print top answer.
+
+# Part 1
+print(calories[0]) # Print top result.
+
+# Part 2
+print(sum(calories[0:3])) # Print and sum top 3 results.
