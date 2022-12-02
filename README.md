@@ -1,3 +1,3 @@
 # Advent-of-Code
 
-[Advent of Code](https://adventofcode.com/) challenges.
+[Advent of Code](https://adventofcode.com/) solutions.
